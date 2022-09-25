@@ -1,0 +1,16 @@
+[
+  {
+    "name": "company-id",
+    "path": "/company/:id?",
+    "component": "D:\\\\web\\\\myProject\\\\vue-company-task\\\\pages\\\\company\\\\_id.vue",
+    "chunkName": "pages/company/_id",
+    "_name": "_685624f8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\web\\\\myProject\\\\vue-company-task\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5ea5f272"
+  }
+]

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{308:function(t,e,l){"use strict";l.r(e);var n={},o=l(26),component=Object(o.a)(n,(function(){return(0,this._self._c)("ssr-carousel",{attrs:{"slides-per-page":2,loop:!0}},[this._t("default")],2)}),[],!1,null,null,null);e.default=component.exports;installComponents(component,{SsrCarousel:l(322).default})}}]);

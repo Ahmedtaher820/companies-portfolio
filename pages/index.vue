@@ -11,10 +11,6 @@ import CompanyCards from "../components/CompanyCards/index.vue";
 export default {
   name: "IndexPage",
   components: { Header, CompanyCards },
-  data() {
-    return {
-    };
-  },
   fetch({ $axios , store }) {
 
     return $axios

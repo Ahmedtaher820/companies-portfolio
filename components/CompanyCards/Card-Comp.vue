@@ -76,9 +76,6 @@ export default {
       type: Object,
     },
   },
-  mounted() {
-    console.log(this.post);
-  },
   methods: {
     checkPosts(post) {
       this.$store.commit("selectedPost",post)

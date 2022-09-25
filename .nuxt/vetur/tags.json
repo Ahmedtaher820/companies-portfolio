@@ -1,0 +1,38 @@
+{
+  "SsrCarousel": {
+    "description": "Auto imported from node_modules/vue-ssr-carousel/index.js"
+  },
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "CarouselComp": {
+    "description": "Auto imported from components/Carousel-Comp.vue"
+  },
+  "ContactUs": {
+    "description": "Auto imported from components/ContactUs.vue"
+  },
+  "Owner": {
+    "description": "Auto imported from components/Owner.vue"
+  },
+  "Social": {
+    "description": "Auto imported from components/Social.vue"
+  },
+  "CompanyCardsCardComp": {
+    "description": "Auto imported from components/CompanyCards/Card-Comp.vue"
+  },
+  "CompanyCards": {
+    "description": "Auto imported from components/CompanyCards/Cards.vue"
+  },
+  "CompanyCardsPrevNext": {
+    "description": "Auto imported from components/CompanyCards/PrevNext.vue"
+  },
+  "CurrentCompanyHeader": {
+    "description": "Auto imported from components/CurrentCompany/Header.vue"
+  },
+  "CurrentCompanyModal": {
+    "description": "Auto imported from components/CurrentCompany/Modal.vue"
+  },
+  "CurrentCompanyNavBar": {
+    "description": "Auto imported from components/CurrentCompany/NavBar.vue"
+  }
+}

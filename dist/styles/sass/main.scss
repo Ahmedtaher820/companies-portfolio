@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600;700&family=Josefin+Sans:wght@200;300;400;500;600;700&family=La+Belle+Aurore&family=Lobster&family=Lora:ital,wght@1,400;1,500;1,600;1,700&family=Mochiy+Pop+One&family=Open+Sans:wght@300;400;500;600;700&family=Pacifico&family=Poppins:wght@100;200;300;400;500;600;700;800&family=Quicksand:wght@300;400;600;700&family=Raleway:ital,wght@0,500;0,700;1,400&family=Roboto:wght@100&family=Shadows+Into+Light&display=swap");
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body{
+  background-color: #eee;
+}
+.main-btn{
+  background-color: #333;
+  color:white;
+  padding: 8px 35px;
+  font-size: 17px;
+  transition:all .3s;
+  border: none;
+  outline: none;
+  &:hover{
+    background-color: #666;
+    color: white;
+  }
+}
+.main-header {
+  font-size: 38px;
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  width: fit-content;
+  margin: 10px auto;
+  font-style: italic;
+  &::after,
+  &::before {
+    position: absolute;
+    content: "";
+    top: 50%;
+    width: 40px;
+    height: 2px;
+    background-color: #222;
+    transform: translateY(-50%);
+  }
+  &::after {
+    left: -50px;
+  }
+  &::before {
+    right: -50px;
+  }
+}
